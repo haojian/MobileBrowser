@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout
+END
+active_tabs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/active_tabs.xml
+END
+no_downloads.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/no_downloads.xml
+END
+erowser_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/erowser_find.xml
+END
+video_loading_progress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/video_loading_progress.xml
+END
+tabs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/tabs.xml
+END
+erowser_download_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/erowser_download_item.xml
+END
+tab_view_add_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/tab_view_add_tab.xml
+END
+geolocation_permissions_prompt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/geolocation_permissions_prompt.xml
+END
+tab_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/tab_view.xml
+END
+ssl_certificate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/ssl_certificate.xml
+END
+website_settings_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/website_settings_row.xml
+END
+custom_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/custom_screen.xml
+END
+history_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/history_header.xml
+END
+error_console.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/error_console.xml
+END
+title_bar_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/title_bar_bg.xml
+END
+http_authentication.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/http_authentication.xml
+END
+empty_history.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/empty_history.xml
+END
+history_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/history_item.xml
+END
+erowser_add_bookmark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/erowser_add_bookmark.xml
+END
+tabitem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/tabitem.xml
+END
+ssl_warning.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/ssl_warning.xml
+END
+add_new_bookmark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/add_new_bookmark.xml
+END
+page_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/page_info.xml
+END
+erowser_subwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/erowser_subwindow.xml
+END
+ssl_success.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/ssl_success.xml
+END
+erowser_bookmarks_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/erowser_bookmarks_page.xml
+END
+erowser_downloads_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/erowser_downloads_page.xml
+END
+title_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/title_bar.xml
+END
+tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/tab.xml
+END
+permission_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/permission_dialog.xml
+END
+bookmark_thumbnail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/bookmark_thumbnail.xml
+END
+ssl_warnings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/layout/ssl_warnings.xml
+END

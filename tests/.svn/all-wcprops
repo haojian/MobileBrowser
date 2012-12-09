@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/tests
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/tests/Android.mk
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/tests/AndroidManifest.xml
+END

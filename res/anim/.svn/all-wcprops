@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/anim
+END
+title_bar_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/anim/title_bar_enter.xml
+END
+find_dialog_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/anim/find_dialog_exit.xml
+END
+find_dialog_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/anim/find_dialog_enter.xml
+END
+title_bar_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/irlab-emory/!svn/ver/124/android/MobileBrowser/res/anim/title_bar_exit.xml
+END
